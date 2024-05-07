@@ -1,4 +1,4 @@
-Crop-Disease-Detection-System
+"Crop-Disease-Detection-System"
 Crop Disease is necessary for every farmer so we are created Crop disease detection using Deep learning. In which we are using convolutional Neural Network for classifying Leaf images into 39 Different Categories. The Convolutional Neural Code build in Pytorch Framework. For Training we are using Plant village dataset.
 How to run this project - 
 [1] You must have Python3.8 installed in your machine.
