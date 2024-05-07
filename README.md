@@ -29,6 +29,7 @@ Each image has its corresponding disease name, so you can verify whether the mod
 
 
 
-Snippet of web app-
+# Snippet of web app-
+
 ![image](https://github.com/falgunirawat13/Crop-Disease-Prediction-System/assets/115785063/3169cbed-e1ad-4f60-96b2-5c99e4f59fc5)
 ![image](https://github.com/falgunirawat13/Crop-Disease-Prediction-System/assets/115785063/ea0374cb-6823-4fcf-bbc4-72d7910d0086)
