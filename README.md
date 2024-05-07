@@ -1,7 +1,8 @@
-#Crop-Disease-Detection-System
+# Crop-Disease-Detection-System
+
 Crop Disease is necessary for every farmer so we are created Crop disease detection using Deep learning. In which we are using convolutional Neural Network for classifying Leaf images into 39 Different Categories. The Convolutional Neural Code build in Pytorch Framework. For Training we are using Plant village dataset.
 
-#How to run this project - 
+# How to run this project - 
 
 [1] You must have Python3.8 installed in your machine.
 
@@ -16,12 +17,13 @@ Crop Disease is necessary for every farmer so we are created Crop disease detect
 
 [5] Go to Folder Flask Deployed App
 >•	Download the pre-trained model file plant_disease_model_1.pt from Here
+>
 >•	Add the downloaded file in Flask Deployed App folder.
 
  [6] Run the Flask app using below command 
 >•	python3 app.py
 
-Testing Images-
+# Testing Images-
 If you do not have leaf images then you can use test images located in test_images folder.
 Each image has its corresponding disease name, so you can verify whether the model is working perfectly or not
 
